@@ -1,1 +1,1 @@
-This is a directory for learning javascript web scrapping with Holberton
+This is a directory for learning Web Scrapping with JS
